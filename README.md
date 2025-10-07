@@ -8,12 +8,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=500&lines=AI+%26+DS+Engineer+in+the+Making!;Building+Smart+Presence+App+📱;Passionate+About+AOSP+and+Automation;Creating+%26+Editing+Visual+Stories+🎬" alt="Typing SVG" />
-</p>
-
----
-
 ### 🧠 About Me  
 💡 I’m an **AI & Data Science Engineering student** who loves building things that blend **intelligence and creativity**.  
 ⚙️ I specialize in **AI-driven apps**, **AOSP development**, and **video editing**.  
@@ -60,11 +54,6 @@
 ### 📊 Activity Graph
 
 [![Asimuddin’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hexdare&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🐍 My Contribution Snake
-![snake gif](https://github.com/hexdare/hexdare/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
