@@ -1,39 +1,44 @@
 <!-- 💻 Mohammed Asimuddin | Hexdare -->
 
-<h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF;">Mohammed Asimuddin</span></h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=230&section=header&text=Mohammed%20Asimuddin%20⚡%20Hexdare&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header"/>
+</p>
+
 <h3 align="center">🚀 AOSP Enthusiast | 🎓 AI & DS Engineering Student | 🎬 Video Editor</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00BFFF&center=true&vCenter=true&width=500&lines=AI+%26+DS+Engineer+in+the+making!;Passionate+about+AOSP+%26+AI+Projects;Building+Smart+Presence+App+%F0%9F%94%A5;Creating+%26+Editing+Visual+Stories+%F0%9F%8E%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=500&lines=AI+%26+DS+Engineer+in+the+Making!;Building+Smart+Presence+App+📱;Passionate+About+AOSP+and+Automation;Creating+%26+Editing+Visual+Stories+🎬" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧩 About Me
-💡 I’m an **AI & Data Science Engineering student** passionate about **AOSP**, **Artificial Intelligence**, and **creative development**.  
-🧠 I love **building intelligent apps** that make real-world impact — currently developing **Smart Presence**,  
-an **Attendance + Curriculum Management App** for students.  
-🎬 When I’m not coding, I’m probably creating **motion edits** for [@hexdare](https://instagram.com/hexdare) ⚡
+### 🧠 About Me  
+💡 I’m an **AI & Data Science Engineering student** who loves building things that blend **intelligence and creativity**.  
+⚙️ I specialize in **AI-driven apps**, **AOSP development**, and **video editing**.  
+📱 Currently working on **Smart Presence**, an attendance & curriculum management app for students.  
+🎨 Outside of code, I create motion visuals at [@hexdare](https://instagram.com/hexdare).
 
 ---
 
 ### 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,react,git,github,vscode,androidstudio,ai" />
 </p>
 
 ---
 
 ### 🚀 Current Focus
-- 🔹 Enhancing **Smart Presence App** with Unique Features  
-- 🔹 Exploring **custom AOSP builds & system-level automation**  
-- 🔹 Sharpening my **motion editing** & creative design skills  
+- ⚡ Building **Smart Presence App** (AI + Attendance System)  
+- 🧩 Exploring **Custom AOSP Builds**  
+- 🧠 Learning **AI Automation & ML Integrations**  
+- 🎬 Enhancing **Motion Graphic Skills**
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hexdare&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -42,6 +47,30 @@ an **Attendance + Curriculum Management App** for students.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexdare&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+
+[![Smart Presence](https://github-readme-stats.vercel.app/api/pin/?username=hexdare&repo=smart-presence&theme=tokyonight)](https://github.com/hexdare/smart-presence)
+
+---
+
+### 📊 Activity Graph
+
+[![Asimuddin’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hexdare&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🐍 My Contribution Snake
+![snake gif](https://github.com/hexdare/hexdare/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 💬 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
@@ -66,12 +95,8 @@ an **Attendance + Curriculum Management App** for students.
 
 ---
 
-### 💬 Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=120&section=footer" />
 </p>
 
----
-
 <h3 align="center">🔥 “Code it. Build it. Edit it. Live it.” — Hexdare</h3>
-
