@@ -10,8 +10,7 @@
 
 ### 🧠 About Me  
 💡 I’m an **AI & Data Science Engineering student** who loves building things that blend **intelligence and creativity**.  
-⚙️ I specialize in **AI-driven apps**, **AOSP development**, and **video editing**.  
-📱 Currently working on **Smart Presence**, an attendance & curriculum management app for students.  
+⚙️ I specialize in **AI-driven apps**, **AOSP development**, and **video editing**.   
 🎨 Outside of code, I create motion visuals at [@hexdare](https://instagram.com/hexdare).
 
 ---
@@ -24,8 +23,7 @@
 
 ---
 
-### 🚀 Current Focus
-- ⚡ Building **Smart Presence App** (AI + Attendance System)  
+### 🚀 Current Focus 
 - 🧩 Exploring **Custom AOSP Builds**  
 - 🧠 Learning **AI Automation & ML Integrations**  
 - 🎬 Enhancing **Motion Graphic Skills**
